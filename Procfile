@@ -1,1 +1,1 @@
-web: gunicorn app:api_with_flasgger
+web: gunicorn wsgi:api_with_flasgger
