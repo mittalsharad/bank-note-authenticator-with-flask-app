@@ -1,5 +1,9 @@
 # Bank Note Authenticator with Flask
 
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![Framework](https://img.shields.io/badge/Framework-Flask-red)
+![Frontend]()
+
 In this repo, I have created a Bank Note Authentication Model. After creating the model, I have also deployed it onto Hroku platform using Flask and Flasgger.
 
 ### Steps
