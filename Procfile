@@ -1,1 +1,1 @@
-web: gunicorn && streamlit run api_with_flasgger.py
+web: gunicorn app:api_with_flasgger
